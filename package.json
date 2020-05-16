@@ -1,0 +1,18 @@
+{  "homepage": "https://github.com/syedalihussain100/express-middleware.git",
+  "name": "zaid-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-middleware": "^3.4.2",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
